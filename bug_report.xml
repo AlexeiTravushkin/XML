@@ -1,0 +1,13 @@
+        <?xml version="1.0"?>
+        <INFO>
+        <Summary>Item not added to cart</Summary>
+        <Steps to reproduce>All steps to reproduce with exact summary for each</Steps to reproduce>
+        <Environment>Platform,OS,Browser version</Environment>
+        <Status>NEW</Status>
+        <Priority>P1</Priority>
+        <Severity>Minor</Severity>
+        <Expected result>The result you expect</Expected result>
+        <Actual result>Do not need to be explain</Actual result>
+        <Attachments>Some links may be here</Attachments>
+         </INFO>
+           
